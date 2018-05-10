@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">AlsSmoothieHut</string>
+    <string name="text_1" translatable="false">Come to Al\'s Smoothie Hut to cool off this summer.We offer:
+        \n*All natural fruit smoothies and fruit juice.
+        \n*We offer new customers 20% off!</string>
+    <string name="text_2" translatable="false">For directions and more info, please visit our website:
+        www.alsmoothie.com
+        \n We also do PARTIES! Please let us know 2
+        weeks in advance
+        \n\n Thank You.</string>
+</resources>
